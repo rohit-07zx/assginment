@@ -1,0 +1,5 @@
+MONGODB_URL=mongodb+srv://ziton123:admin@ziton.vu49fyq.mongodb.net/zitondb
+
+PORT=3000
+ACCESS_TOKEN_SECRET=secret
+ACCESS_TOKEN_EXPIRY=10d
